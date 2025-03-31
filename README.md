@@ -22,10 +22,6 @@ Check and checkmate detection
 
 Installation
 
-Clone the Repository:
-
-git clone https://github.com/yourusername/chess-game.git
-cd chess-game
 
 Install Dependencies:
 
